@@ -51,7 +51,7 @@
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
         "lru-cache": "^11.1.0",
-        "libsignal": "git+https://github.com/xhclintohn/libsignal-node",
+        "libsignal": "git+https://github.com/MLILA17/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-fetch": "^2.6.1",
         "pino": "^9.6.0",
